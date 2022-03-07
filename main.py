@@ -3,7 +3,6 @@ import arcpy
 import os
 import utility
 
-##
 
 def run_FY_sums(fiscal_year):
     print("STARTING FY SUM PROCESS")
